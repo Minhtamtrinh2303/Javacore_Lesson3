@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Hw4_11 {
+public class Hw4_nháp {
     public static void main(String[] args) {
         //Viết chương trình liệt kê n số nguyên tố đầu tiên.
         //nhập n
